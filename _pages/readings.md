@@ -8,9 +8,12 @@ show-title: false
 ## Upcoming Readings
 
 * 7/8
-  * TBA
+  * Humberstone, "[I'm a Luddite (and So Can You!)](https://thenib.com/im-a-luddite/)" (revisting)
+  * Baker, "[Datasets Have Worldviews](https://pair.withgoogle.com/explorables/dataset-worldviews/)." (revisting)
+  * Torres, "[The Acronym Behind our Wildest AI Dreams and Nightmares](https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares/)" (optional)
 * 7/22
-  * TBA
+  * Posada, "[Why AI Needs Ethics from Below](https://posada.website/publication/why-ai-needs-ethics-from-below/Posada2021AINow.pdf)."
+  * Matheus, Tubaro, & Casili, "[Microwork in Brazil. Who are the workers behind artificial intelligence?](https://hal.science/hal-04140411)."
 
 ## Past Readings
 
@@ -33,4 +36,4 @@ show-title: false
 * 10/23/2023
   * Baker, "[Datasets Have Worldviews](https://pair.withgoogle.com/explorables/dataset-worldviews/)."
   * Posada, "[Why AI Needs Ethics from Below](https://posada.website/publication/why-ai-needs-ethics-from-below/Posada2021AINow.pdf)"
-  * Humberstone, "[I'm a Luddiete (and So Can You!)](https://thenib.com/im-a-luddite/)"
+  * Humberstone, "[I'm a Luddite (and So Can You!)](https://thenib.com/im-a-luddite/)"
