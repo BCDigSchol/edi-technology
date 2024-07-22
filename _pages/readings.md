@@ -13,8 +13,8 @@ show-title: false
 * 8/5/2024
   * Nakamura, "[Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture](https://muse.jhu.edu/article/563663)."
 * 8/19/2024
-  * Noble, "[The Power of Algorithms](https://www.jstor.org/stable/j.ctt1pwt9w5.4)," in <em>Algorithms of Oppression: How Search Engins Reinforce Racism</em>: 1-14.
-  * Noble, "[Searching for Black Girls](https://www.jstor.org/stable/j.ctt1pwt9w5.6)," in <em>Algorithms of Oppression: How Search Engins Reinforce Racism</em>: 64-109.
+  * Noble, "[The Power of Algorithms](https://www.jstor.org/stable/j.ctt1pwt9w5.4)," in <em>Algorithms of Oppression: How Search Engines Reinforce Racism</em>: 1-14.
+  * Noble, "[Searching for Black Girls](https://www.jstor.org/stable/j.ctt1pwt9w5.6)," in <em>Algorithms of Oppression: How Search Engines Reinforce Racism</em>: 64-109.
 
 ## Past Readings
 
@@ -37,7 +37,7 @@ show-title: false
   * (Summarizes the above article) Companion, "[Computational Language Models Can Further Environmental Degredation and Language Bias](https://www.dailyuw.com/news/article_f5f735a0-9816-11eb-a5c5-0b22dda3ec6b.html)"
   * Schwab, "[This is Bigger Than just Timnit: How Google Tried to Silence a Critic and Ignited a Movement](https://www.fastcompany.com/90608471/timnit-gebru-google-ai-ethics-equitable-tech-movement)"
 * 11/6/2023
-  * Noble, "[A Society, Searching](https://www.jstor.org/stable/j.ctt1pwt9w5.5)," in <em>Algorithms of Oppression: How Search Engins Reinforce Racism</em>: 15-63.
+  * Noble, "[A Society, Searching](https://www.jstor.org/stable/j.ctt1pwt9w5.5)," in <em>Algorithms of Oppression: How Search Engines Reinforce Racism</em>: 15-63.
 * 10/23/2023
   * Baker, "[Datasets Have Worldviews](https://pair.withgoogle.com/explorables/dataset-worldviews/)."
   * Posada, "[Why AI Needs Ethics from Below](https://posada.website/publication/why-ai-needs-ethics-from-below/Posada2021AINow.pdf)"
