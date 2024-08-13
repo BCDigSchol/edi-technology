@@ -7,17 +7,20 @@ show-title: false
 
 ## Upcoming Readings
 
-* 7/22/2024
-  * Posada, "[Why AI Needs Ethics from Below](https://posada.website/publication/why-ai-needs-ethics-from-below/Posada2021AINow.pdf)."
-  * Matheus, Tubaro, & Casili, "[Microwork in Brazil. Who are the workers behind artificial intelligence?](https://hal.science/hal-04140411)."
-* 8/5/2024
-  * Nakamura, "[Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture](https://muse.jhu.edu/article/563663)."
+* 9/2/2024
+  * Webb, Yawhon, Morgan, & Berry, "[Who Owns Black Data? Keynote Address](https://www.youtube.com/watch?v=M6KkrNkKEeQ)"
+
 * 8/19/2024
   * Noble, "[The Power of Algorithms](https://www.jstor.org/stable/j.ctt1pwt9w5.4)," in <em>Algorithms of Oppression: How Search Engines Reinforce Racism</em>: 1-14.
   * Noble, "[Searching for Black Girls](https://www.jstor.org/stable/j.ctt1pwt9w5.6)," in <em>Algorithms of Oppression: How Search Engines Reinforce Racism</em>: 64-109.
 
 ## Past Readings
 
+* 8/5/2024
+  * Nakamura, "[Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture](https://muse.jhu.edu/article/563663)."
+* 7/22/2024
+  * Posada, "[Why AI Needs Ethics from Below](https://posada.website/publication/why-ai-needs-ethics-from-below/Posada2021AINow.pdf)."
+  * Matheus, Tubaro, & Casili, "[Microwork in Brazil. Who are the workers behind artificial intelligence?](https://hal.science/hal-04140411)."
 * 7/8/2024
   * Humberstone, "[I'm a Luddite (and So Can You!)](https://thenib.com/im-a-luddite/)" (revisting)
   * Baker, "[Datasets Have Worldviews](https://pair.withgoogle.com/explorables/dataset-worldviews/)." (revisting)
