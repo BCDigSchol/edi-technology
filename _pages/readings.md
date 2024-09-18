@@ -16,6 +16,9 @@ show-title: false
 * 10/2/2024
   * Webb, Yawhon, Morgan, & Berry, "[Who Owns Black Data? Keynote Address](https://www.youtube.com/watch?v=M6KkrNkKEeQ)"
 
+* 10/16/2024
+  * Fulgu & Capraro, "[Surprising Gender Biases in GPT](https://osf.io/preprints/psyarxiv/mp27q)"
+
 ## Past Readings
 
 * 8/5/2024
