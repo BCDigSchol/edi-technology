@@ -9,9 +9,7 @@ show-title: false
 
 
 
-* 9/18/2024
-  * Noble, "[The Power of Algorithms](https://www.jstor.org/stable/j.ctt1pwt9w5.4)," in <em>Algorithms of Oppression: How Search Engines Reinforce Racism</em>: 1-14.
-  * Noble, "[Searching for Black Girls](https://www.jstor.org/stable/j.ctt1pwt9w5.6)," in <em>Algorithms of Oppression: How Search Engines Reinforce Racism</em>: 64-109.
+
 
 * 10/2/2024
   * Webb, Yawhon, Morgan, & Berry, "[Who Owns Black Data? Keynote Address](https://www.youtube.com/watch?v=M6KkrNkKEeQ)"
@@ -19,8 +17,14 @@ show-title: false
 * 10/16/2024
   * Fulgu & Capraro, "[Surprising Gender Biases in GPT](https://osf.io/preprints/psyarxiv/mp27q)"
 
+* 10/30/2024
+  * Andrew Mallinson - "[Queering AI with Andrew Mallinson](https://www.youtube.com/watch?v=YiJcwFBQgn8&ab_channel=UALCreativeComputingInstitute)"
+
 ## Past Readings
 
+* 9/18/2024
+  * Noble, "[The Power of Algorithms](https://www.jstor.org/stable/j.ctt1pwt9w5.4)," in <em>Algorithms of Oppression: How Search Engines Reinforce Racism</em>: 1-14.
+  * Noble, "[Searching for Black Girls](https://www.jstor.org/stable/j.ctt1pwt9w5.6)," in <em>Algorithms of Oppression: How Search Engines Reinforce Racism</em>: 64-109.
 * 8/5/2024
   * Nakamura, "[Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture](https://muse.jhu.edu/article/563663)."
 * 7/22/2024
