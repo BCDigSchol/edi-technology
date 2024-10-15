@@ -22,7 +22,7 @@
                     {% endif %}
                     </span>
                 {% if menu_item.submenu %}
-                    <div class="dropdown-content text-center">
+                    <div class="dropdown-content">
                         {% for submenu_item in menu_item.submenu %}
                             <a href="{{ site.baseurl }}/{{ submenu_item.link }}">
                                 {{ submenu_item.title }}
@@ -84,7 +84,7 @@
                         {% endif %}
                         </span>
                     {% if menu_item.submenu %}
-                        <div class="dropdown-content text-center">
+                        <div class="dropdown-content">
                             {% for submenu_item in menu_item.submenu %}
                                 <a href="{{ site.baseurl }}/{{ submenu_item.link }}">
                                     {{ submenu_item.title }}
