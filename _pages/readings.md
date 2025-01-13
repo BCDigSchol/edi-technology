@@ -7,15 +7,16 @@ show-title: false
 
 ## Upcoming Readings
 
-* 10/30/2024
-  * Andrew Mallinson - "[Queering AI with Andrew Mallinson](https://www.youtube.com/watch?v=YiJcwFBQgn8&ab_channel=UALCreativeComputingInstitute)"
-* 11/13/2024
-  * Mystery AI Hype Theater 3000 - "[Universities Anxiously Buy into the Hype](https://peertube.dair-institute.org/w/hcYgUjQExZUPQTzpHHNF8z)"
-* 11/27/2024
-  * Benjamin Shestakofsky - "[Cleaning up data work: Negotiating meaning, morality, and inequality in a tech startup](https://journals.sagepub.com/doi/10.1177/20539517241285372)"
+* 1/22/2025 - T.M. Brown (The Atlantic)- "The Technology that Actually Runs our World"
 
 ## Past Readings
 
+* 11/27/2024
+  * Benjamin Shestakofsky - "[Cleaning up data work: Negotiating meaning, morality, and inequality in a tech startup](https://journals.sagepub.com/doi/10.1177/20539517241285372)"
+* 11/13/2024
+  * Mystery AI Hype Theater 3000 - "[Universities Anxiously Buy into the Hype](https://peertube.dair-institute.org/w/hcYgUjQExZUPQTzpHHNF8z)"
+* 10/30/2024
+  * Andrew Mallinson - "[Queering AI with Andrew Mallinson](https://www.youtube.com/watch?v=YiJcwFBQgn8&ab_channel=UALCreativeComputingInstitute)"
 * 10/16/2024
   * Fulgu & Capraro, "[Surprising Gender Biases in GPT](https://osf.io/preprints/psyarxiv/mp27q)"
 * 10/2/2024
