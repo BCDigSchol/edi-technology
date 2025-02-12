@@ -7,10 +7,14 @@ show-title: false
 
 ## Upcoming Readings
 
-* 1/22/2025 - T.M. Brown (The Atlantic)- "The Technology that Actually Runs our World"
+* 2/26/2025
+  * The Guardian - [Revealed Bias in AI for Benefits](https://www.theguardian.com/society/2024/dec/06/revealed-bias-found-in-ai-system-used-to-detect-uk-benefits)
+  * Jiemin Tina Wei - [Amazon Mechanical Turk: The Human Sciences’ Labor Problem](https://read.dukeupress.edu/labor/article-abstract/21/3/6/390482/Amazon-Mechanical-Turk-The-Human-Sciences-Labor?redirectedFrom=fulltext)
 
 ## Past Readings
 
+* 1/22/2025
+  * T.M. Brown (The Atlantic)- "The Technology that Actually Runs our World"
 * 11/27/2024
   * Benjamin Shestakofsky - "[Cleaning up data work: Negotiating meaning, morality, and inequality in a tech startup](https://journals.sagepub.com/doi/10.1177/20539517241285372)"
 * 11/13/2024
