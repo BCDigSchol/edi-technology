@@ -10,6 +10,8 @@ show-title: false
 * 2/12/2025
   * Torres, "[The Acronym Behind our Wildest AI Dreams and Nightmares](https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares/)"
   * The Atlantic, "[The Rise of Techno-Authoritarianism](https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/)" (optional)
+* 2/26//2025
+  * Jacob Gaboury - "[Becoming NULL: Queer relations in the excluded middle](https://www.womenandperformance.org/bonus-articles-1/jacob-gaboury-28-2)"
 
 ## Past Readings
 
