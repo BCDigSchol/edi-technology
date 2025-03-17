@@ -7,14 +7,14 @@ show-title: false
 
 ## Upcoming Readings
 
-* 2/12/2025
-  * Torres, "[The Acronym Behind our Wildest AI Dreams and Nightmares](https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares/)"
-  * The Atlantic, "[The Rise of Techno-Authoritarianism](https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/)" (optional)
-* 2/26//2025
+* 3/26//2025
   * Jacob Gaboury - "[Becoming NULL: Queer relations in the excluded middle](https://www.womenandperformance.org/bonus-articles-1/jacob-gaboury-28-2)"
 
 ## Past Readings
 
+* 2/12/2025
+  * Torres, "[The Acronym Behind our Wildest AI Dreams and Nightmares](https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares/)"
+  * The Atlantic, "[The Rise of Techno-Authoritarianism](https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/)" (optional)
 * 2/26/2025
   * The Guardian - [Revealed Bias in AI for Benefits](https://www.theguardian.com/society/2024/dec/06/revealed-bias-found-in-ai-system-used-to-detect-uk-benefits)
   * Jiemin Tina Wei - [Amazon Mechanical Turk: The Human Sciences’ Labor Problem](https://read.dukeupress.edu/labor/article-abstract/21/3/6/390482/Amazon-Mechanical-Turk-The-Human-Sciences-Labor?redirectedFrom=fulltext)
