@@ -7,13 +7,16 @@ show-title: false
 
 ## Upcoming Readings
 
-* 4/16
-  * ProPublica - "[Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)"
-  * Wired - "[OpenAI's Sora is Plagued by Sexist, Racist, and Ableist Biases](https://www.wired.com/story/openai-sora-video-generator-bias/)"
+* 5/21/2025
+  * Boaz Barak - [I Teach Computer Science, and That is All](https://www.nytimes.com/2025/05/02/opinion/work-school-classroom-politics-harvard.html)
+  * Tara McPherson - "[Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/20df8acd-9ab9-4f35-8a5d-e91aa5f4a0ea)"
 
 ## Past Readings
 
-* 3/26//2025
+* 5/7/2025
+  * ProPublica - "[Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)"
+  * Wired - "[OpenAI's Sora is Plagued by Sexist, Racist, and Ableist Biases](https://www.wired.com/story/openai-sora-video-generator-bias/)"
+* 3/26/2025
   * Jacob Gaboury - "[Becoming NULL: Queer relations in the excluded middle](https://www.womenandperformance.org/bonus-articles-1/jacob-gaboury-28-2)"
 * 2/12/2025
   * Torres, "[The Acronym Behind our Wildest AI Dreams and Nightmares](https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares/)"
