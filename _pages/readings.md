@@ -7,6 +7,8 @@ show-title: false
 
 ## Upcoming Readings
 
+* 6/4/2025
+ * Emily M. Bender, Alex Hannah, "[On the Very Real Dangers of the Artificial Intelligence Hype Machine](https://lithub.com/on-the-very-real-dangers-of-the-artificial-intelligence-hype-machine/)"
 * 5/21/2025
   * Boaz Barak - [I Teach Computer Science, and That is All](https://www.nytimes.com/2025/05/02/opinion/work-school-classroom-politics-harvard.html)
   * Tara McPherson - "[Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/20df8acd-9ab9-4f35-8a5d-e91aa5f4a0ea)"
