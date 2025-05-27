@@ -7,7 +7,7 @@ show-title: false
 
 ## Upcoming Readings
 
-* 6/4/2025
+* 6/18/2025
  * Emily M. Bender, Alex Hannah, "[On the Very Real Dangers of the Artificial Intelligence Hype Machine](https://lithub.com/on-the-very-real-dangers-of-the-artificial-intelligence-hype-machine/)"
 
 ## Past Readings
