@@ -7,11 +7,16 @@ show-title: false
 
 ## Upcoming Readings
 
-* 7/2/2025
-  * Mark Hurst, Emily M. Bender, Alex Hannah. "[Techtonic on The AI Con](https://wfmu.org/archiveplayer/?show=152572&archive=271278)"
+* 8/13/2025
+  * Lucy Havens, Benjamin Bach, Melissa Terras, Beatrice Alex, "[Investigating the Capabilities and Limitations of Machine Learning for Identifying Bias in English Language Data with Information and Heritage Professionals](https://arxiv.org/abs/2504.00860)"
+* 7/30/2025
+  * Mar Hicks, "[A Feature Not a Bug](https://www.technologystories.org/a-feature-not-a-bug/)"
+  * Mar Hicks, "[De-Brogramming the History of Computing](https://ieeexplore.ieee.org/document/6502624)"
 
 ## Past Readings
 
+* 7/2/2025
+  * Mark Hurst, Emily M. Bender, Alex Hannah. "[Techtonic on The AI Con](https://wfmu.org/archiveplayer/?show=152572&archive=271278)"
 * 6/18/2025
  * Emily M. Bender, Alex Hannah, "[On the Very Real Dangers of the Artificial Intelligence Hype Machine](https://lithub.com/on-the-very-real-dangers-of-the-artificial-intelligence-hype-machine/)"
 * 5/21/2025
