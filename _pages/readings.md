@@ -7,7 +7,7 @@ show-title: false
 
 ## Upcoming Readings
 
-* 9/3/2025
+* 9/10/2025
   * Miriam Posner, "[What’s Next: The Radical, Unrealized Potential of Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled/section/a22aca14-0eb0-4cc6-a622-6fee9428a357)"
 * 8/13/2025
   * Lucy Havens, Benjamin Bach, Melissa Terras, Beatrice Alex, "[Investigating the Capabilities and Limitations of Machine Learning for Identifying Bias in English Language Data with Information and Heritage Professionals](https://arxiv.org/abs/2504.00860)"

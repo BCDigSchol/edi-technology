@@ -1,10 +1,10 @@
 # change the followings to match your Github username and repo name
-# baseurl: "/wip-aelfric-online" # the name of your github repo
-# url: "https://BCDigSchol.github.io" # the url of your github pages
+baseurl: "/edi-technology" # the name of your github repo
+url: "https://BCDigSchol.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
 title: "EDI & Technology Reading Group"
-description: Jekyll site for the EDI & Technology Ready Group @ Boston College
+description: Jekyll site for Reading Group @ Boston College
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
@@ -22,8 +22,6 @@ search-bar: false
 
 hide-footer: false # set to true to hide the footer
 footer-message: EDI & Technology Reading Group | CC BY-NC License
-footer-submessage: Digital Scholarship Studio, 2nd Floor, O'Neill Library, Boston College
-footer-submessage-link: https://ds.bc.edu
 
 # google-analytics: // if you want to use Google analytics, include your ID here
 
