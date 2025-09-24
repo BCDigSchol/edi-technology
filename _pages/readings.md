@@ -8,7 +8,7 @@ show-title: false
 ## Upcoming Readings
 
 * 10/8/2025
- Courtney C. Radsch, "[Panopticons and Closing Civic Space: The Building Blocks of Digital Authoritarianism](https://posada.website/publication/platform-authority-and-data-quality/Digital-Authoritarnism.pdf)" in [Decoding Digital Authoritarianism](https://posada.website/publication/platform-authority-and-data-quality/Digital-Authoritarnism.pdf), pp. 39-
+ Courtney C. Radsch, "[Panopticons and Closing Civic Space: The Building Blocks of Digital Authoritarianism](https://posada.website/publication/platform-authority-and-data-quality/Digital-Authoritarnism.pdf)" in [Decoding Digital Authoritarianism](https://posada.website/publication/platform-authority-and-data-quality/Digital-Authoritarnism.pdf), pp. 39-46
 * 9/24/2025
   * Craig Spensr, "[The Trump Administration Will Automate Health Inequities](https://www.theatlantic.com/health/archive/2025/08/ai-health-inequities/684047/)"
 
