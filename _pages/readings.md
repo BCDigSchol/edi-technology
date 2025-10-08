@@ -7,13 +7,15 @@ show-title: false
 
 ## Upcoming Readings
 
+* 10/22/2025
+  * Grant Wythoff, "[Ensuring Minimal Computing Serves Maximal Connection](https://dhq.digitalhumanities.org/vol/16/2/000596/000596.html)"
 * 10/8/2025
  Courtney C. Radsch, "[Panopticons and Closing Civic Space: The Building Blocks of Digital Authoritarianism](https://posada.website/publication/platform-authority-and-data-quality/Digital-Authoritarnism.pdf)" in [Decoding Digital Authoritarianism](https://posada.website/publication/platform-authority-and-data-quality/Digital-Authoritarnism.pdf), pp. 39-46
-* 9/24/2025
-  * Craig Spensr, "[The Trump Administration Will Automate Health Inequities](https://www.theatlantic.com/health/archive/2025/08/ai-health-inequities/684047/)"
 
 ## Past Readings
 
+* 9/24/2025
+  * Craig Spensr, "[The Trump Administration Will Automate Health Inequities](https://www.theatlantic.com/health/archive/2025/08/ai-health-inequities/684047/)"
 * 9/10/2025
   * Miriam Posner, "[What’s Next: The Radical, Unrealized Potential of Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled/section/a22aca14-0eb0-4cc6-a622-6fee9428a357)"
 * 8/13/2025
