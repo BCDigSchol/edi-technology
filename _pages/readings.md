@@ -8,7 +8,7 @@ show-title: false
 ## Upcoming Readings
 
 * 11/5/2025
-  Kyra Wilson & Aylin Caliskan [Gender, race, and intersectional bias in AI resume screening via language model retrieval](https://www.brookings.edu/articles/gender-race-and-intersectional-bias-in-ai-resume-screening-via-language-model-retrieval)
+  Kyra Wilson & Aylin Caliskan "[Gender, race, and intersectional bias in AI resume screening via language model retrieval](https://www.brookings.edu/articles/gender-race-and-intersectional-bias-in-ai-resume-screening-via-language-model-retrieval)"
 * 10/22/2025
   * Grant Wythoff, "[Ensuring Minimal Computing Serves Maximal Connection](https://dhq.digitalhumanities.org/vol/16/2/000596/000596.html)"
 
