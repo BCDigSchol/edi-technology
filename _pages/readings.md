@@ -7,13 +7,15 @@ show-title: false
 
 ## Upcoming Readings
 
+* 1/14/2026
+  * Michael Geoffrey Asia, "[The Emotional Labor Behind AI Intimacy](https://data-workers.org/michael/)"
+
+## Past Readings
+
 * 11/19/2025
   * Justin Radin, "[Higher Ed's Rush to Adopt AI is about So Much More than AI](https://defector.com/higher-eds-rush-to-adopt-ai-is-about-so-much-more-than-ai)"
 * 11/5/2025
   * Kyra Wilson & Aylin Caliskan "[Gender, race, and intersectional bias in AI resume screening via language model retrieval](https://www.brookings.edu/articles/gender-race-and-intersectional-bias-in-ai-resume-screening-via-language-model-retrieval)"
-
-## Past Readings
-
 * 10/22/2025
   * Grant Wythoff, "[Ensuring Minimal Computing Serves Maximal Connection](https://dhq.digitalhumanities.org/vol/16/2/000596/000596.html)"
 * 10/8/2025
