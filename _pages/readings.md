@@ -7,6 +7,8 @@ show-title: false
 
 ## Upcoming Readings
 
+* 2/11/2026
+  * Calli McMurray, "[Exclusive: Springer Nature retracts, removes nearly 40 publications that trained neural networks on ‘bonkers’ dataset](https://www.thetransmitter.org/retraction/exclusive-springer-nature-retracts-removes-nearly-40-publications-that-trained-neural-networks-on-bonkers-dataset/)"
 * 1/14/2026
   * Michael Geoffrey Asia, "[The Emotional Labor Behind AI Intimacy](https://data-workers.org/michael/)"
 
