@@ -3,7 +3,7 @@ baseurl: "/edi-technology" # the name of your github repo
 url: "https://BCDigSchol.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "EDI & Technology Reading Group"
+title: "Across the Digital Divide: Reading Group"
 description: Jekyll site for Reading Group @ Boston College
 
 # color theme for links
@@ -21,7 +21,7 @@ nav-menu:
 search-bar: false
 
 hide-footer: false # set to true to hide the footer
-footer-message: EDI & Technology Reading Group | CC BY-NC License
+footer-message: "Across the Digital Divide: Reading Group | CC BY-NC License"
 
 # google-analytics: // if you want to use Google analytics, include your ID here
 
