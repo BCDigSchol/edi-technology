@@ -7,13 +7,15 @@ show-title: false
 
 ## Upcoming Readings
 
+* 2/25/2026
+  * Stacy Cowley, "[Job Applicants Sue to Open ‘Black Box’ of A.I. Hiring Decisions](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html)"
+
+## Past Readings
+
 * 2/11/2026
   * Calli McMurray, "[Exclusive: Springer Nature retracts, removes nearly 40 publications that trained neural networks on ‘bonkers’ dataset](https://www.thetransmitter.org/retraction/exclusive-springer-nature-retracts-removes-nearly-40-publications-that-trained-neural-networks-on-bonkers-dataset/)"
 * 1/14/2026
   * Michael Geoffrey Asia, "[The Emotional Labor Behind AI Intimacy](https://data-workers.org/michael/)"
-
-## Past Readings
-
 * 11/19/2025
   * Justin Radin, "[Higher Ed's Rush to Adopt AI is about So Much More than AI](https://defector.com/higher-eds-rush-to-adopt-ai-is-about-so-much-more-than-ai)"
 * 11/5/2025
