@@ -7,11 +7,15 @@ show-title: false
 
 ## Upcoming Readings
 
-* 2/25/2026
-  * Stacy Cowley, "[Job Applicants Sue to Open ‘Black Box’ of A.I. Hiring Decisions](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html)"
+* 3/23/2026
+  * Gary Marcus, "[No Heroes in AI.](https://garymarcus.substack.com/p/there-are-no-heroes-in-commercial)"
 
 ## Past Readings
 
+* 3/11/2026
+  * Sheera Frankel & Aaron Krolik, "[How ICE Already Knows Who Minneapolis Protesters Are](https://www.nytimes.com/2026/01/30/technology/tech-ice-facial-recognition-palantir.html)"
+* 2/25/2026
+  * Stacy Cowley, "[Job Applicants Sue to Open ‘Black Box’ of A.I. Hiring Decisions](https://www.nytimes.com/2026/01/21/business/ai-hiring-tools-lawsuit-eightfold-fcra.html)"
 * 2/11/2026
   * Calli McMurray, "[Exclusive: Springer Nature retracts, removes nearly 40 publications that trained neural networks on ‘bonkers’ dataset](https://www.thetransmitter.org/retraction/exclusive-springer-nature-retracts-removes-nearly-40-publications-that-trained-neural-networks-on-bonkers-dataset/)"
 * 1/14/2026
