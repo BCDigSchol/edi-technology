@@ -7,6 +7,8 @@ show-title: false
 
 ## Upcoming Readings
 
+* 4/8/2026
+  * Christa Albrecht-Crane, Angie McKinnon Carter, and Chiler Moore. "[The Secret History of Canvas LMS, Corporate Raiders, & The Chatbot Bubble](https://theamericanvandal.substack.com/p/historyofcanvas)"
 * 3/23/2026
   * Gary Marcus, "[No Heroes in AI.](https://garymarcus.substack.com/p/there-are-no-heroes-in-commercial)"
 
