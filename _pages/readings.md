@@ -7,13 +7,16 @@ show-title: false
 
 ## Upcoming Readings
 
+* 4/22/2026
+  * Nicolas Gourault (Video), "[Self-Driving Cars Can't See Without Their Eyes](https://www.nytimes.com/2026/01/02/opinion/ai-self-driving-cars-workers.html)"
+  * Gor Grigoryan, "[How ReCaptcha Truned Internet Users into Unpaid AI Trainers](https://gor-grigoryan.medium.com/how-recaptcha-turned-internet-users-into-unpaid-ai-trainers-a2107adf31e3)"
+
+## Past Readings
+
 * 4/8/2026
   * Christa Albrecht-Crane, Angie McKinnon Carter, and Chiler Moore. "[The Secret History of Canvas LMS, Corporate Raiders, & The Chatbot Bubble](https://theamericanvandal.substack.com/p/historyofcanvas)"
 * 3/23/2026
   * Gary Marcus, "[No Heroes in AI.](https://garymarcus.substack.com/p/there-are-no-heroes-in-commercial)"
-
-## Past Readings
-
 * 3/11/2026
   * Sheera Frankel & Aaron Krolik, "[How ICE Already Knows Who Minneapolis Protesters Are](https://www.nytimes.com/2026/01/30/technology/tech-ice-facial-recognition-palantir.html)"
 * 2/25/2026
