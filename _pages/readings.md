@@ -7,12 +7,15 @@ show-title: false
 
 ## Upcoming Readings
 
-* 4/22/2026
-  * Nicolas Gourault (Video), "[Self-Driving Cars Can't See Without Their Eyes](https://www.nytimes.com/2026/01/02/opinion/ai-self-driving-cars-workers.html)"
-  * Gor Grigoryan, "[How ReCaptcha Truned Internet Users into Unpaid AI Trainers](https://gor-grigoryan.medium.com/how-recaptcha-turned-internet-users-into-unpaid-ai-trainers-a2107adf31e3)"
+* 4/29/2026
+  * Mario DeSean Booker, [Digital redlining: AI Infrastructure and Environmental Racism in Contemporary America](https://wjarr.com/content/digital-redlining-ai-infrastructure-and-environmental-racism-contemporary-america)
+
 
 ## Past Readings
 
+* 4/22/2026
+  * Nicolas Gourault (Video), "[Self-Driving Cars Can't See Without Their Eyes](https://www.nytimes.com/2026/01/02/opinion/ai-self-driving-cars-workers.html)"
+  * Gor Grigoryan, "[How ReCaptcha Truned Internet Users into Unpaid AI Trainers](https://gor-grigoryan.medium.com/how-recaptcha-turned-internet-users-into-unpaid-ai-trainers-a2107adf31e3)"
 * 4/8/2026
   * Christa Albrecht-Crane, Angie McKinnon Carter, and Chiler Moore. "[The Secret History of Canvas LMS, Corporate Raiders, & The Chatbot Bubble](https://theamericanvandal.substack.com/p/historyofcanvas)"
 * 3/23/2026
