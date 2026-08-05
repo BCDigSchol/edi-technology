@@ -7,11 +7,20 @@ show-title: false
 
 ## Upcoming Readings
 
-* 5/20/2026
-  * Charlie Warzel, [The Internet Was Built to Objectify Women](https://www.theatlantic.com/podcasts/2026/01/the-internet-was-built-to-objectify-women/685652/)
+
 
 ## Past Readings
 
+* 8/12/2026
+  * Lora Kelley,, "[The Work of Helping A.I. Destroy Work](https://www.nytimes.com/2026/07/10/business/ai-white-collar-jobs.html?unlocked_article_code%3D1.3FA.Ekoh.ro02z0vqV0v7%26smid%3Durl-share&sa=D&source=calendar&ust=1786373412082115&usg=AOvVaw1MZ7mduHxrDjOQGlCCf5cD)"
+* 7/5/2026
+  * [Coded Bias, Part 2](https://bc.primo.exlibrisgroup.com/permalink/01BC_INST/11hgdmv/alma99138164689701021)
+* 7/1/2026
+  * [Coded Bias, Part 1](https://bc.primo.exlibrisgroup.com/permalink/01BC_INST/11hgdmv/alma99138164689701021)
+* 6/17/2026
+  * Emily M. Bender, "[We do not have to accept AI (much less GenAI) as inevitable in education](https://www.google.com/url?q=https://unesdoc.unesco.org/ark:/48223/pf0000395236.locale%3Den&sa=D&source=calendar&ust=1786365520960068&usg=AOvVaw1tuZOGzGt0h_hptSzn-3VH)"
+* 5/20/2026
+  * Charlie Warzel, [The Internet Was Built to Objectify Women](https://www.theatlantic.com/podcasts/2026/01/the-internet-was-built-to-objectify-women/685652/)
 * 4/29/2026
   * Mario DeSean Booker, [Digital redlining: AI Infrastructure and Environmental Racism in Contemporary America](https://wjarr.com/content/digital-redlining-ai-infrastructure-and-environmental-racism-contemporary-america)
 * 4/22/2026
